@@ -1,7 +1,7 @@
-#Starter Web Browser
+# Starter Web Browser
 
-##Introduction
+## Introduction
 
-##Purpose
+## Purpose
 
-##How to Contribute
+## How to Contribute
