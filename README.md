@@ -22,3 +22,7 @@ for git training demos.
 ## How to Contribute
 
 Doing something
+
+### Copyright	
+
+2017  Git.Training
