@@ -21,7 +21,7 @@ for git training demos.
 
 ## How to Contribute
 
-Doing something
+Please fork this repository and then issue 	Pull requets for review.
 
 ### Copyright	
 
