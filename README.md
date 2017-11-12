@@ -2,7 +2,7 @@
 
 This is a simple website project for
 showing how to use git and github together.
-Adding an line for rebasing example.
+Adding an line for rebasing example, then more changes from myfeature branch too.
 
 ## Introduction
 
